@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal Bhaskar</h1>
 <h3 align="center">Full Stack Web-Developer</h3>
+<img width="100%" src="https://img.wattpad.com/6a241bd5e9834b57b3055f47b500b71bc9e07052/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6c495f5f7379746f2d53686355413d3d2d3934383835313239392e313633323130313932626662616634613539343836393238373533322e676966?s=fit&w=1024&h=720"></img>
+
+
+
+<h3>I'm capable of coding in languages like JavaScript, HTML, CSS, JAVA and python.
+Good at communication and a potential speaker and writer. A rational person, capable of producing innovative ideas spontaneously. I’m a keen observer and always have a craving for knowledge and I believe I can learn new tasks soon if needed under considerable circumstances.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalbhaskar-27&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalbhaskar-27" /> </p>
 
